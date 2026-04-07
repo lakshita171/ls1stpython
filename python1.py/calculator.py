@@ -15,3 +15,5 @@ elif opt=='%':
     print(a%b)
 elif opt=='**':
     print(a**b)
+else:
+    print("invalid operator")
